@@ -6,6 +6,7 @@ public class TestCase002 {
 
 
         System.out.println("Practice makes progress");
+        System.out.println("Shared the project on GitUp");
 
 
     }
