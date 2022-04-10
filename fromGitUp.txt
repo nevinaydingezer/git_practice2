@@ -1,0 +1,2 @@
+This an awesome file I added directly from GitUp.com
+And now I am about to commit diractly to
